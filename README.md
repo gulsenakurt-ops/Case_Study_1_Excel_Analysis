@@ -1,5 +1,5 @@
 # Case_Study_1_Excel_Analysis
-# 📊 Kredi Kartı Müşteri Segmentasyon ve Veri Analizi (Case Study 1)
+# 📊 Kredi Kartı Müşteri Segmentasyon ve Veri Analizi (Case Study)
 
 Bu proje, Ahmet Çalık Vakfı ve İTÜSEM İleri Veri Analitiği programı kapsamında hazırlanmış bir veri analizi vaka çalışmasıdır.
 
